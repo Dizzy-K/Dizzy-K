@@ -8,4 +8,13 @@
 
 ### Learning, Learning everying...with myself, with my friends, with you.
 
-#### EXACTLY:<br>[learning Crypto](http://blog.dizzyk.top/index.php/archives/96/)<br>[learning front-end development with my gf](http://blog.dizzyk.top/index.php/archives/176/)<br>[writing knm(oneof usb flow analysis tool)](http://blog.dizzyk.top/index.php/archives/180/)<br>and so on...
+#### EXACTLY:
+
+1. [learning Crypto](http://blog.dizzyk.top/index.php/archives/96/)
+2. [learning front-end development with my gf](http://blog.dizzyk.top/index.php/archives/176/)
+3. [writing knm(oneof usb flow analysis tool)](http://blog.dizzyk.top/index.php/archives/180/)
+4. and so on...
+
+## Learn me more
+
+[My blog](http://blog.dizzyk.top/)
