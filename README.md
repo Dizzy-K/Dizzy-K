@@ -16,4 +16,4 @@
 
 ## Learn me more
 
-[My blog](http://blog.dizzyk.top/)
+[My blog](http://dizzyk.top/)
